@@ -90,3 +90,9 @@ footer {
         width: 100%;
     }
 }
+
+/* Cambiar el color de los iconos a #ff860f */
+.footer-icons a i {
+    color: #ff860f;
+}
+
